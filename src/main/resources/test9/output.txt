@@ -1,0 +1,5 @@
+User with john.doe@email.com doesn't exist
+{"stocksToBuy":["GOOGL","JPM","ABNB","MSFT","COST","T","V","NFLX","META","GOOG","NVDA","BAC","KO","TMUS","CMCSA","PG","ADBE","AMZN","WMT"]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"49900.00"}]}
+{"stocks":[{"stockName":"ADBE","amount":10},{"stockName":"ORCL","amount":100}],
+"accounts":[{"currencyName":"USD","amount":"34371,64"}]}
